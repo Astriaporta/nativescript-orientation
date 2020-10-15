@@ -1,8 +1,4 @@
-<a href="https://proplugins.org"><img src="https://proplugins.org/logos/unmaintained.svg" height="30px" width="100%"></a>
-
 # NativeScript-Orientation
-
-<p align="center"><a href="https://proplugins.org"><img src="https://proplugins.org/logos/logo.png" width="400"  /></a></p>
 
 We have an awesome, new service in town!   This service provides tested new and upgraded plugins.  All ProPlugins are already known to work with NativeScript 6.x.
 If you are interested in getting the latest, known working, and enhanced plugins; check out https://ProPlugins.org -- because I strongly believe in what ProPlugins offers the community all of my development work is being done on the ProPlugins version.
